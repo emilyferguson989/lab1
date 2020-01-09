@@ -3,6 +3,27 @@
 	margin-top: 2em;
 }
 
+.project {
+     margin-left: 20px;
+     background-color: rgb(238, 178, 228);
+}
+
+.project1page {
+     margin-left: 20px;
+     background-color: rgb(148, 207, 146);
+}
+
+.project2page {
+     margin-left: 20px;
+     background-color: rgb(248, 132, 190);
+}
+
+.project3page {
+     margin-left: 20px;
+     background-color: rgb(243, 161, 38);
+}
+
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
